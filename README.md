@@ -10,4 +10,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 
 ### ✅ Automated Tests
 
-> Development of the solutions are made following Test-Driven Development (TDD) practices.
+> ⚠️ The solutions are developed following Test-Driven Development (TDD) practices.
