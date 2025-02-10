@@ -10,4 +10,5 @@ This repository contains my solutions to LeetCode problems, organised by categor
 ## 📊 Progress
 
 - ✅ Two Sum (`arrays/two_sum.py`)
+- ✅ Merge Strings Alternately (`arrays/merge_strings_alternately.py`)
 - ✅ Palindrome Number (`math/palindrome_number.py`)
