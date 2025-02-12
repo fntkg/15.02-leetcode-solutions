@@ -17,3 +17,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 - ✅ 345. Reverse Vowels of a String (`arrays/reverse_vowels.py`)
 - ✅ 500. Keyboard Row (`arrays/keyboard_row.py`)
 - ✅ 9. Palindrome Number (`math/palindrome_number.py`)
+- ✅ 599. Minimum Index Sum of Two Lists (`arrays/min_index_sum_of_two_lists.py`)
