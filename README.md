@@ -18,3 +18,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 - ✅ 500. Keyboard Row (`arrays/keyboard_row.py`)
 - ✅ 9. Palindrome Number (`math/palindrome_number.py`)
 - ✅ 599. Minimum Index Sum of Two Lists (`arrays/min_index_sum_of_two_lists.py`)
+- ✅ 748. Shortest Completing Word (`arrays/shortest_completing_word.py`)
