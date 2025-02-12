@@ -14,3 +14,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 - ✅ 1071. Greatest Common Divisor of Strings (`arrays/gcd_of_strings.py`)
 - ✅ 9. Palindrome Number (`math/palindrome_number.py`)
 - ✅ 1431. Kids with the Greatest Number of Candies (`arrays/kids_with_candies.py`)
+- ✅ 605. Can Place Flowers (`arrays/can_place_flowers.py`)
