@@ -4,8 +4,9 @@ This repository contains my solutions to LeetCode problems, organised by categor
 
 ## 📂 Structure
 
-- `solutions/arrays/` → Array problems.
-- `solutions/math/` → Math problems.
+- `arrays/` → Array problems.
+- `math/` → Math problems.
+- `prefix_sum/` → Prefix sum problems.
 
 ## 📊 Progress
 
@@ -20,3 +21,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 - ✅ 599. Minimum Index Sum of Two Lists (`arrays/min_index_sum_of_two_lists.py`)
 - ✅ 748. Shortest Completing Word (`arrays/shortest_completing_word.py`)
 - ✅ 151. Reverse Words in a String (`arrays/reverse_words_in_string.py`)
+- ✅ 1732. Find the Highest Altitude (`prefix_sum/find_highest_altitude.py`)
