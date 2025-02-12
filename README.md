@@ -22,3 +22,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 - ✅ 748. Shortest Completing Word (`arrays/shortest_completing_word.py`)
 - ✅ 151. Reverse Words in a String (`arrays/reverse_words_in_string.py`)
 - ✅ 1732. Find the Highest Altitude (`prefix_sum/find_highest_altitude.py`)
+- ✅ 724. Find Pivot Index (`prefix_sum/find_pivot_index.py`)
