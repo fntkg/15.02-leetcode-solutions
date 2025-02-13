@@ -24,3 +24,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 724. Find Pivot Index (`LeetCode_75/prefix_sum/find_pivot_index.py`)
 - ✅ 238. Product of Array Except Self (`LeetCode_75/array_string/product_except_self.py`)
 - ✅ 283. Move Zeroes (`LeetCode_75/two_pointers/move_zeroes.py`)
+- ✅ 392. Is Subsequence (`LeetCode_75/two_pointers/is_subsequence.py`)
