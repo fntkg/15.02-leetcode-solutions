@@ -23,3 +23,4 @@ This repository contains my solutions to LeetCode problems, organised by categor
 - ✅ 151. Reverse Words in a String (`arrays/reverse_words_in_string.py`)
 - ✅ 1732. Find the Highest Altitude (`prefix_sum/find_highest_altitude.py`)
 - ✅ 724. Find Pivot Index (`prefix_sum/find_pivot_index.py`)
+- ✅ 238. Product of Array Except Self (`prefix_sum/product_except_self.py`)
