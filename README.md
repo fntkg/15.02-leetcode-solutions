@@ -26,3 +26,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 283. Move Zeroes (`LeetCode_75/two_pointers/move_zeroes.py`)
 - ✅ 392. Is Subsequence (`LeetCode_75/two_pointers/is_subsequence.py`)
 - ✅ 443. String Compression (`LeetCode_75/array_string/string_compression.py`)
+- ✅ 11. Container With Most Water (`LeetCode_75/two_pointers/container_with_most_water.py`)
