@@ -28,3 +28,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 443. String Compression (`LeetCode_75/array_string/string_compression.py`)
 - ✅ 11. Container With Most Water (`LeetCode_75/two_pointers/container_with_most_water.py`)
 - ✅ 1679. Max Number of K-Sum Pairs (`LeetCode_75/two_pointers/max_k_sum_pairs.py`)
+- ✅ 643. Maximum Average Subarray I (`LeetCode_75/sliding_window/max_avg_subarray.py`)
