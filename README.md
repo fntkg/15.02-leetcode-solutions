@@ -30,3 +30,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 1679. Max Number of K-Sum Pairs (`LeetCode_75/two_pointers/max_k_sum_pairs.py`)
 - ✅ 643. Maximum Average Subarray I (`LeetCode_75/sliding_window/max_avg_subarray.py`)
 - ✅ 1456. Maximum Number of Vowels in a Substring of Given Length (`LeetCode_75/sliding_window/max_vowels_in_substring.py`)
+- ✅ 1004. Max Consecutive Ones III (`LeetCode_75/sliding_window/max_consecutive_ones.py`)
