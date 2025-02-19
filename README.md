@@ -33,3 +33,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 1004. Max Consecutive Ones III (`LeetCode_75/sliding_window/max_consecutive_ones.py`)
 - ✅ 1493. Longest Subarray of 1's After Deleting One Element (`LeetCode_75/sliding_window/longest_subarray_ones.py`)
 - ✅ 2215. Find the Difference of Two Arrays (`LeetCode_75/hash_map_set/find_difference_two_arrays.py`)
+- ✅ 1207. Unique Number of Occurrences (`LeetCode_75/hash_map_set/unique_number_ocurrences.py`)
