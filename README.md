@@ -35,3 +35,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 2215. Find the Difference of Two Arrays (`LeetCode_75/hash_map_set/find_difference_two_arrays.py`)
 - ✅ 1207. Unique Number of Occurrences (`LeetCode_75/hash_map_set/unique_number_ocurrences.py`)
 - ✅ 334. Increasing Triplet Subsequence (`LeetCode_75/array_string/increasing_triplet_subsequence.py`)
+- ✅ 1657. Determine if Two Strings Are Close (`LeetCode_75/hash_map_set/determine_if_two_strings_are_close.py`)
