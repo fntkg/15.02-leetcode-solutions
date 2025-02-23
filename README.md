@@ -38,3 +38,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 1657. Determine if Two Strings Are Close (`LeetCode_75/hash_map_set/determine_if_two_strings_are_close.py`)
 - ✅ 2352. Equal Row and Column Pairs (`LeetCode_75/hash_map_set/equal_row_and_column_pairs.py`)
 - ✅ 88. Merge Sorted Array (`Top_Interview_150/array_string/merge_sorted_array.py`)
+- ✅ 27. Remove Element (`Top_Interview_150/array_string/remove_element.py`)
