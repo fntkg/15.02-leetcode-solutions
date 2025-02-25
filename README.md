@@ -41,3 +41,4 @@ This repository contains my solutions to LeetCode problems, organised by Study P
 - ✅ 27. Remove Element (`Top_Interview_150/array_string/remove_element.py`)
 - ✅ 26. Remove Duplicates from Sorted Array (`Top_Interview_150/array_string/remove_duplicates_sorted.py`)
 - ✅ 169. Majority Element (`Top_Interview_150/array_string/majority_element.py`)
+- ✅ 121. Best Time to Buy and Sell Stock (`Top_Interview_150/array_string/best_time_to_buy.py`)
