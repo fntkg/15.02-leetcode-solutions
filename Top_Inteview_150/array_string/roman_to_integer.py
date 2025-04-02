@@ -8,6 +8,7 @@ ROMAN_NUMERAL_MAP = {
     "M": 1000,
 }
 
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         total = 0
@@ -23,6 +24,7 @@ class Solution:
             previous_value = current_value
 
         return total
+
 
 if __name__ == "__main__":
     s = Solution()
